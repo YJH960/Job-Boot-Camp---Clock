@@ -1,0 +1,17 @@
+/* 배터리 표시 요소의 스타일 */
+#battery {
+  width: 100%;
+  height: 20px;
+  background-color: green;
+}
+
+/* 디지털 시계의 스타일 */
+#clock {
+  font-size: 24px;
+  background-color: white;
+}
+
+/* 알람 목록과 관련된 스타일 */
+#alarmList {
+  margin-top: 20px;
+}
